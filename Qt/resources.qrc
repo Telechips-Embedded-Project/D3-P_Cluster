@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/images">
+        <file alias="adas_car_top.png">cluster-images/adas_car_top.png</file>
+        <file alias="adas_go_alert.png">cluster-images/adas_go_alert.png</file>
+        <file alias="adas_warning_front.png">cluster-images/adas_warning_front.png</file>
+        <file alias="adas_warning_side.png">cluster-images/adas_warning_side.png</file>
+        <file>cluster-images/cluster_background.png</file>
+    </qresource>
+</RCC>
